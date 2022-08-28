@@ -4,6 +4,9 @@ int main (void)
 {
 printf("Hello World");
 
-prinf ("Hello Solar System");
+printf ("Hello Solar System");
+
+printf("Thank You!!!");
+
 
 }
