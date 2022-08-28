@@ -8,7 +8,12 @@ printf ("Hello Solar System");
 
 printf("Thank You!!!");
 
+printf("Thank You So Much");
+
+printf("Thanks a Lot");
+
 printf("Final");
+
 
 
 }
